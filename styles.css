@@ -1,0 +1,18 @@
+#sigma {
+  color: teal;
+}
+.rizzler {
+  border: 20px dashed teal;
+} 
+h3 {
+ color: yellow; 
+} 
+ h3 {
+ color: orange;
+} 
+h1, h2, h3{
+  font-size: 35px;
+}
+div h2 {
+  background-color: purple;
+}
